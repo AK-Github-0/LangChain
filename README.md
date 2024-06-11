@@ -1,6 +1,5 @@
 # LangChain
 
-```markdown
 # LangChain and LLM Application Projects
 
 Welcome to my repository where I showcase various hands-on projects utilizing LangChain and Language Model (LLM) applications. This repository includes tutorials and projects aimed at getting started with LangChain, building various LLM applications, and exploring specialized tasks.
