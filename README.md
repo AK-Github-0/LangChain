@@ -30,9 +30,6 @@ Various hands-on projects utilizing LangChain and Large Language Models. This re
   - [Twitter](#twitter)
   - [GitHub](#github)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Tutorials
 
@@ -129,16 +126,4 @@ To run these projects locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
-
-Instructions on how to run and use each project can be found in their respective directories. Navigate to the project folder and follow the provided instructions.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements, bug fixes, or documentation improvements.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
