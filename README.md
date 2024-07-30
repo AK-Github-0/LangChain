@@ -1,4 +1,4 @@
-# LangChain Application Projects
+# LangChain Projects
 
 Various hands-on projects utilizing LangChain and Large Language Models. This repository includes tutorials and projects aimed at getting started with LangChain, building various LLM applications, and exploring specialized tasks.
 
